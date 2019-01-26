@@ -1,0 +1,21 @@
+@font-face {
+	font-family: bs;
+	src: url(bs.ttf);
+}
+.text {
+	font-family: bs;
+}
+.bs8 {
+	background-image: url(bs8.jpg);
+	height: 200px;
+	margin-left: 800px;
+}
+.shapka {
+	background-color: #040205;
+}
+.text_shapki {
+	color: #828889;
+}
+.spinner {
+	margin-top: 280px;
+}
